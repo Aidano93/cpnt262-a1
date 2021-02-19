@@ -1,9 +1,9 @@
 # CPNT-262 A1
 Aidan O'Reilly
 
-GH repo:
+GH repo: https://github.com/Aidano93/cpnt262-a1
 
-GH page:
+GH page: https://aidano93.github.io/cpnt262-a1/
 
 ## Description:
 

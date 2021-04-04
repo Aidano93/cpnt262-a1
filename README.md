@@ -1,11 +1,9 @@
 # CPNT-262 A1
 Aidan O'Reilly
 
-GH repo: https://github.com/Aidano93/
-simple-ham-menu 
+GH repo: https://github.com/Aidano93/simple-ham-menu 
 
-GH page: https://aidano93.github.io/
-simple-ham-menu/
+GH page: https://aidano93.github.io/simple-ham-menu/
 
 ## Description:
 
